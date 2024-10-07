@@ -1,7 +1,8 @@
 # My Calculator App using React
 
 This project was built for my Cousera's assignment - React Basics with Meta. Here are some of my learnings, as well as the scope of this project.
-
+<br>
+<br>https://eggonion.github.io/myCalculator/
 ---
 
 ## 2 types of Components in React. 
@@ -62,7 +63,7 @@ The scope of the app is to build 6 functions;
 ---
 
 ## The Folder Structure 
-The code was structured into 7 components, each having its own functionalities. This makes the codes cleaner and 
+The code has been structured into 7 components, each having its own functionalities. This makes the code cleaner and 
 easier to manage in the future.
 
 ![folderStructure](https://github.com/eggOnion/myCalculator/blob/main/assestsForReadMe/cal_folderStructure.png?raw=true)
